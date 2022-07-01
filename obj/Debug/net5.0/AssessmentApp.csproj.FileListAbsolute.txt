@@ -1,0 +1,16 @@
+C:\Users\AYOMATICS\desktop\AssessmentApp\obj\Debug\net5.0\AssessmentApp.csproj.AssemblyReference.cache
+C:\Users\AYOMATICS\desktop\AssessmentApp\obj\Debug\net5.0\AssessmentApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AYOMATICS\desktop\AssessmentApp\obj\Debug\net5.0\AssessmentApp.AssemblyInfoInputs.cache
+C:\Users\AYOMATICS\desktop\AssessmentApp\obj\Debug\net5.0\AssessmentApp.AssemblyInfo.cs
+C:\Users\AYOMATICS\desktop\AssessmentApp\obj\Debug\net5.0\AssessmentApp.csproj.CoreCompileInputs.cache
+C:\Users\AYOMATICS\desktop\AssessmentApp\bin\Debug\net5.0\AssessmentApp.exe
+C:\Users\AYOMATICS\desktop\AssessmentApp\bin\Debug\net5.0\AssessmentApp.deps.json
+C:\Users\AYOMATICS\desktop\AssessmentApp\bin\Debug\net5.0\AssessmentApp.runtimeconfig.json
+C:\Users\AYOMATICS\desktop\AssessmentApp\bin\Debug\net5.0\AssessmentApp.runtimeconfig.dev.json
+C:\Users\AYOMATICS\desktop\AssessmentApp\bin\Debug\net5.0\AssessmentApp.dll
+C:\Users\AYOMATICS\desktop\AssessmentApp\bin\Debug\net5.0\ref\AssessmentApp.dll
+C:\Users\AYOMATICS\desktop\AssessmentApp\bin\Debug\net5.0\AssessmentApp.pdb
+C:\Users\AYOMATICS\desktop\AssessmentApp\obj\Debug\net5.0\AssessmentApp.dll
+C:\Users\AYOMATICS\desktop\AssessmentApp\obj\Debug\net5.0\ref\AssessmentApp.dll
+C:\Users\AYOMATICS\desktop\AssessmentApp\obj\Debug\net5.0\AssessmentApp.pdb
+C:\Users\AYOMATICS\desktop\AssessmentApp\obj\Debug\net5.0\AssessmentApp.genruntimeconfig.cache
